@@ -18,12 +18,3 @@ Features:
 
 Instructions to run:
 Chess.py needs to be run using Python3. 
-
-Requirements Met:
-  Custom class: Piece class
-  Magic Method: possible_moves
-
-  Three Modules:
-    1 -> Tkinter
-    2 -> Pillow
-    3 -> Sys
